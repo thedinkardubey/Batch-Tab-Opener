@@ -1,4 +1,4 @@
-```markdown
+
 # Batch Tab Opener
 
 Batch Tab Opener is a Chrome extension that allows users to open multiple URLs in bulk, making it easier to manage daily tasks and websites. With features like importing and exporting URL lists, this extension is perfect for those who need to access numerous sites quickly.
@@ -71,4 +71,3 @@ For any questions or feedback, feel free to reach out to me at:
 - **Email:** sde.dinkardubey@gmail.com
 ```
 
-Feel free to customize any part of this README to better fit your project or personal style!
