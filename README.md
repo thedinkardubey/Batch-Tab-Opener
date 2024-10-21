@@ -1,5 +1,3 @@
-Here’s a sample README file for your "Batch Tab Opener" project. This will guide users through the installation and setup process in developer mode.
-
 ```markdown
 # Batch Tab Opener
 
